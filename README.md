@@ -7,7 +7,7 @@ Eduardo William Zarnelli Junior<br>
 Gabriel de Oliveira Souza<br>
 Marco Amorim<br>
 Victor Manoel Martins<br>
-Pedro <br>
+Pedro Otávio da Róz <br>
 
 <h2>Ferramentas Utilizadas no Projeto:</h2>
 
