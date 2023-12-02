@@ -18,10 +18,6 @@ body {
     font-weight: bold;
 }
 
-.card-body {
-    border: #CCA43D solid 2px;
-    border-radius: 5px;
-}
 
 .btn {
     background-color: #CCA43D;
