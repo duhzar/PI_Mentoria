@@ -1,7 +1,15 @@
+#navbarNav{
+  text-align: center;
+}
+.nave-item{
+  align-items:  center;
+  font-size: 15px;
+  font-weight: bolder;
+}
 .nav-item{
   font-size: 15px, black;
   font-weight: bolder;
-  text-align: center;
+  align-items: center;
   }
 .navbar {
     background-color: rgba(204, 164, 61);
