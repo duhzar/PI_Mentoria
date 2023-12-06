@@ -1,15 +1,16 @@
-#navbarNav{
-  text-align: center;
+.row {
+  display: flex;
 }
-.nave-item{
-  align-items:  center;
-  font-size: 15px;
-  font-weight: bolder;
+
+.column {
+  margin-left: 100px;
+  flex: 5%;
+  padding: 5px;
 }
 .nav-item{
   font-size: 15px, black;
   font-weight: bolder;
-  align-items: center;
+  text-align: center;
   }
 .navbar {
     background-color: rgba(204, 164, 61);
