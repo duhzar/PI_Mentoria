@@ -212,3 +212,9 @@ body {
       margin-top: 7rem;
     }
   }
+
+  .testimonials 
+  { display: flex; justify-content: space-between; align-items: center; background-color: #CCA43D; padding: 20px; margin: 40px; } 
+  .testimonial { display: flex; flex-direction: column; align-items: center; text-align: center; background-color: white; } 
+  .testimonial img { width: 80px; height: 80px; border-radius: 50%; margin-bottom: 10px; margin: 20px; } 
+  .testimonial p { font-size: italic; font-size: 16px; margin: 0; }
